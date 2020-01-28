@@ -1,6 +1,6 @@
 This is a repo for CS 201 Test Cases
 
-#Instructions:
+# Instructions:
 1. Add CDA class to src/CDA.cpp
 2. Run `make` in terminal. It takes ~30 seconds the first time, but runs in less than a second after the initial run.
 
